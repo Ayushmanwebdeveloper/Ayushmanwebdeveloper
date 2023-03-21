@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushman Tripathi</h1>
 <h3 align="center">A passionate MERN Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **A full stack NASA API project**
+- 🔭 I’m currently working on **A Full Stack NASA API Project**
 
 - 💬 Ask me about **React, Node JS, Express JS, 
 Sequelize, CSS, AWS, Frontend Libraries, JavaScript (OOP, DSA), TypeScript, SQL, Lua, MongoDB, AWS, 
