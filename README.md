@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Ayushman and I'm a a JavaScript Software Developer</h2>
-<h2 align="left">💡I have experience working with a variety of technologies, including React, Node JS, Express JS, 
+<h6 align="left">💡I have experience working with a variety of technologies, including React, Node JS, Express JS, 
 Sequelize, CSS, AWS, Frontend Libraries, JavaScript (OOP, DSA), TypeScript, SQL, Lua, MongoDB, AWS, 
 Heroku, Redux, Git, Jest, REST, GraphQL, Servers, APIs, Google Firebase, C++, Operating Systems, and 
-Computer Networks Architecture</h2>
+Computer Networks Architecture</h6>
 ###
 
 <div align="center">
