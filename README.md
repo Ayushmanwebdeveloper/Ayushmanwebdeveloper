@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ayushman Tripathi</h1>
 <h3 align="center">A passionate MERN Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **A full stack social media site project**
+- 🔭 I’m currently working on **A full stack NASA API project**
 
-- 🌱 I’m currently learning **react native, mysql**
-
-- 💬 Ask me about **html, css, javascript, node js ,mongo db, react, bootstrap, api**
+- 💬 Ask me about **React, Node JS, Express JS, 
+Sequelize, CSS, AWS, Frontend Libraries, JavaScript (OOP, DSA), TypeScript, SQL, Lua, MongoDB, AWS, 
+Heroku, Redux, Git, Jest, REST, GraphQL, Servers, APIs, Google Firebase, C++, Operating Systems, and 
+Computer Networks Architecture**
 
 - 📫 How to reach me **ayushmantripathi7724@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ayushmantripathi7724/](https://www.linkedin.com/in/ayushmantripathi7724/)
 
-- ⚡ Fun fact **I like cats :)**
+- ⚡ Fun fact **I love music :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
