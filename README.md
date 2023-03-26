@@ -76,6 +76,6 @@ Computer Networks Architecture</h5>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ayushmanwebdeveloper/Ayushmanwebdeveloper/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
