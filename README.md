@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ayushman and I'm a JavaScript Software Developer</h2>
+<h2 align="left">Hi!👋 My name is Ayushman and I'm a JavaScript Software Developer</h2>
 <h5 align="left" style="font-weight:light; text-decoration:none; color: inherit;">Experienced software developer with 2.5 years of hands-on experience in Node.js, React, 
 Sequelize, JavaScript (DSA+OOP), MongoDB, AWS, Linux, Git, Jest, REST, PHP, Wordpress, 
 GraphQL, Google Firebase, Lua, Joomla CMS, and Networks, Python, and Django.
