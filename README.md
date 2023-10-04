@@ -1,8 +1,11 @@
 <h2 align="left">Hi 👋! My name is Ayushman and I'm a JavaScript Software Developer</h2>
-<h5 align="left" style="font-weight:light">I have experience working with a variety of technologies, including React, Node JS, Express JS, 
-Sequelize, CSS, AWS, Frontend Libraries, JavaScript (OOP, DSA), TypeScript, SQL, Lua, MongoDB, AWS, 
-Heroku, Redux, Git, Jest, REST, GraphQL, Servers, APIs, Google Firebase, C++, Operating Systems, and 
-Computer Networks Architecture</h5>
+<h5 align="left" style="font-weight:light; text-decoration:none; color: inherit;">Experienced software developer with 2.5 years of hands-on experience in Node.js, React, 
+Sequelize, JavaScript (DSA+OOP), MongoDB, AWS, Linux, Git, Jest, REST, PHP, Wordpress, 
+GraphQL, Google Firebase, Lua, Joomla CMS, and Networks, Python, and Django.
+I recently completed Google Summer of Code 2023, and my goal is to excel as a JavaScript 
+software engineer. Having contributed to a diverse range of full-stack and backend projects, I 
+bring a proactive approach and a commitment to continuous learning. Beyond my professional 
+interests, I enjoy music and providing valuable resources to assist other developers.</h5>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushmanwebdeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
