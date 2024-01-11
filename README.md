@@ -2,7 +2,7 @@
 <h5 align="left" style="font-weight:light; text-decoration:none; color: inherit;">Experienced software developer with 3+ years of hands-on experience in Node.js, React, 
 SQL, JavaScript (DSA+OOP), MongoDB, AWS, Linux, Git, Jest, REST, PHP, Wordpress, 
 GraphQL, Google Firebase, Lua, Joomla CMS, and Networks, Python, and Django.
-
+<hr>
 I recently completed Google Summer of Code 2023, and I'm a MongoDB Certified 
 Associate Developer, My goal is to excel as a JavaScript 
 software engineer. Having contributed to a diverse range of full-stack and backend projects, I 
@@ -71,10 +71,6 @@ interests, I enjoy music and providing valuable resources to assist other develo
   <a href="https://wa.link/cxua7s" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.instagram.com/ayushman__077/?hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
 
 ###
