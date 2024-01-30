@@ -10,9 +10,9 @@ bring a proactive approach and a commitment to continuous learning. Beyond my pr
 interests, I enjoy music and providing valuable resources to assist other developers.</h5>
 
 <div align="center">
- <a href="https://drive.google.com/file/d/10eESO8Lw3acc-7Ky29q6-b7lwsZI0Lum/view?usp=sharing" target="_blank">
+<!-- <a href="https://drive.google.com/file/d/10eESO8Lw3acc-7Ky29q6-b7lwsZI0Lum/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Download RÉsumÉ&logo=arrow&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume"  />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/ayushmantripathi7724/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
